@@ -1,0 +1,7 @@
+Download files:
+
+resnet_c.h5:
+https://drive.google.com/file/d/12gDVVqeMwzPbCGrol7bw3vP9bh4V4GIV/view?usp=sharing
+
+resnet_finetuned_c.h5:
+https://drive.google.com/file/d/1-0JDn2xMkCpP9oGT7avbK0eRLGCHnnHy/view?usp=sharing
